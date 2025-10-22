@@ -138,7 +138,7 @@
 
   window.checkAdminPassword = function() {
     const pass = document.getElementById("adminPassword").value;
-    if (pass === "12345") {
+    if (pass === "2000nadin2006") {
       document.getElementById("adminPanel").style.display = "block";
       closeAdminModal();
     } else {
